@@ -5,7 +5,7 @@ body{
     margin: 0;
     padding: 0;
     text-align: center;
-    background-image:url('./FONDO/FONDO-min.png') ;
+    background-image:url('./FONDO/FONDO.svg') ;
     background-size: cover;
 }
 
